@@ -1,8 +1,6 @@
-# { MUB : Multi User Blog }
+# MUB
 
 **MUB** is a multi-user blog web app using the Python - Django infrastructure. It's works right now, however, I'm planning to add more features in the future. So, if you want to be informed, you can follow and/or give the star to the project.
-
-Don't you like reading codes? You can also test [**MUBapp**](https://mubapp.herokuapp.com/) on Heroku.
 
 
 <br>
